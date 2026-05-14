@@ -1,0 +1,26 @@
+{
+  "fs": 500.0,
+  "dx_m": 2.0,
+  "n_channels": 200,
+  "duration_s": 30.0,
+  "snr_list_db": [-5, 0, 5, 10, 15],
+  "n_samples_per_snr": 50,
+  "signal_snr_db": [-5, 0, 5, 10, 15],
+  "n_signal_samples": 50,
+  "signal_vapp_list": [200, 500, 1000, 2000, 3000],
+  "bg_fmin": 1.0,
+  "bg_fmax": 80.0,
+  "bg_spatial_corr_len": 5.0,
+  "bg_amplitude": 1.0,
+  "ricker_freq_min": 5.0,
+  "ricker_freq_max": 80.0,
+  "burst_freq_min": 50.0,
+  "burst_freq_max": 220.0,
+  "artifact_types": [
+    "spike",
+    "noncoherent_burst",
+    "moving",
+    "narrowband",
+    "hard_case"
+  ]
+}

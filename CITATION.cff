@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "MCS-AND-DAS-artifact-suppression"
+message: "If you use this software, please cite the associated paper and archived software release."
+type: software
+authors:
+  - family-names: "To be updated"
+    given-names: "To be updated"
+version: "1.0.0"
+date-released: "2026-05-13"
+repository-code: "https://github.com/<your-user-name>/MCS-AND-DAS-artifact-suppression"
+doi: "10.5281/zenodo.to-be-added"
+license: "MIT"
+abstract: "Training-free event-level artifact detection and signal-preserving repair for distributed acoustic sensing records."

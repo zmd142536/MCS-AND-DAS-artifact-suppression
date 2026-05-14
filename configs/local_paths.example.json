@@ -1,0 +1,7 @@
+{
+  "synthetic_data_root": "data/synthetic",
+  "foresee_raw_root": "data/FORESEE/raw",
+  "foresee_doc_root": "data/FORESEE",
+  "results_root": "results",
+  "figure_root": "figures"
+}

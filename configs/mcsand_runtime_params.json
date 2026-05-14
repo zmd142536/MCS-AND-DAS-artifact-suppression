@@ -1,0 +1,24 @@
+{
+  "synthetic": {
+    "mahal_alpha": 0.05,
+    "coherence_k": 5,
+    "semblance_threshold": 0.30,
+    "v_app_min": 100.0,
+    "v_app_max": 5000.0,
+    "n_v_scan": 60,
+    "lowrank_rank": 2,
+    "lowrank_neighbor_k": 5,
+    "lowrank_iter": 3
+  },
+  "foresee_field": {
+    "mahal_alpha": 0.05,
+    "coherence_k": 5,
+    "semblance_threshold": 0.22,
+    "v_app_min": 5.0,
+    "v_app_max": 2000.0,
+    "n_v_scan": 60,
+    "lowrank_rank": 2,
+    "lowrank_neighbor_k": 5,
+    "lowrank_iter": 3
+  }
+}
