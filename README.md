@@ -142,7 +142,7 @@ If you use this repository, please cite the associated paper:
 The archived version of this repository will be available through Zenodo:
 
 ```text
-Zenodo DOI: to be added
+Zenodo DOI:10.5281/zenodo.20175098
 ```
 
 ## License
